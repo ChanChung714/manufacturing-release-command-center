@@ -1,0 +1,26 @@
+product_id,product_name,product_category,target_lead_time_days
+PRD-101,Sterile Injectable 01,Sterile Injectable,10
+PRD-102,Oral Solid Dose 02,Oral Solid Dose,10
+PRD-103,Biologic 03,Biologic,21
+PRD-104,Device Kit 04,Device Kit,14
+PRD-105,Diagnostic Reagent 05,Diagnostic Reagent,14
+PRD-106,Sterile Injectable 06,Sterile Injectable,14
+PRD-107,Oral Solid Dose 07,Oral Solid Dose,10
+PRD-108,Biologic 08,Biologic,35
+PRD-109,Device Kit 09,Device Kit,10
+PRD-110,Diagnostic Reagent 10,Diagnostic Reagent,35
+PRD-111,Sterile Injectable 11,Sterile Injectable,28
+PRD-112,Oral Solid Dose 12,Oral Solid Dose,10
+PRD-113,Biologic 13,Biologic,10
+PRD-114,Device Kit 14,Device Kit,10
+PRD-115,Diagnostic Reagent 15,Diagnostic Reagent,14
+PRD-116,Sterile Injectable 16,Sterile Injectable,14
+PRD-117,Oral Solid Dose 17,Oral Solid Dose,35
+PRD-118,Biologic 18,Biologic,35
+PRD-119,Device Kit 19,Device Kit,10
+PRD-120,Diagnostic Reagent 20,Diagnostic Reagent,35
+PRD-121,Sterile Injectable 21,Sterile Injectable,14
+PRD-122,Oral Solid Dose 22,Oral Solid Dose,35
+PRD-123,Biologic 23,Biologic,28
+PRD-124,Device Kit 24,Device Kit,14
+PRD-125,Diagnostic Reagent 25,Diagnostic Reagent,28

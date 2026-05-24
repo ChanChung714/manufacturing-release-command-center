@@ -1,0 +1,31 @@
+change_id,product_id,plant_id,change_type,status,validation_required,effective_date,training_required,release_impact
+CHG-40001,PRD-102,PLT-003,Equipment,Open,True,2026-04-13,True,Blocks New Lots
+CHG-40002,PRD-104,PLT-003,Equipment,Open,False,2026-03-03,True,Pending QA Review
+CHG-40003,PRD-117,PLT-003,Process,In-Review,True,2026-03-07,True,Blocks New Lots
+CHG-40004,PRD-120,PLT-001,Cleaning Validation,Open,True,2026-03-06,True,Release Hold
+CHG-40005,PRD-118,PLT-004,Analytical Method,Open,True,2026-04-23,True,Pending QA Review
+CHG-40006,PRD-111,PLT-003,Analytical Method,Closed,True,2026-04-26,True,Pending QA Review
+CHG-40007,PRD-109,PLT-003,Equipment,Open,True,2026-05-31,False,Pending QA Review
+CHG-40008,PRD-114,PLT-005,Analytical Method,Open,False,2026-02-05,True,Release Hold
+CHG-40009,PRD-103,PLT-003,Analytical Method,Open,True,2026-02-12,True,
+CHG-40010,PRD-121,PLT-002,Cleaning Validation,Open,True,2026-03-08,True,Release Hold
+CHG-40011,PRD-113,PLT-002,Packaging,Open,True,2026-02-03,True,
+CHG-40012,PRD-119,PLT-002,Analytical Method,Closed,False,2026-06-07,True,Blocks New Lots
+CHG-40013,PRD-118,PLT-005,Analytical Method,Open,True,2026-03-06,True,
+CHG-40014,PRD-108,PLT-003,Process,Open,True,2026-04-20,True,Pending QA Review
+CHG-40015,PRD-112,PLT-002,Process,Closed,True,2026-06-02,True,Pending QA Review
+CHG-40016,PRD-101,PLT-004,Cleaning Validation,Open,True,2026-04-13,True,Pending QA Review
+CHG-40017,PRD-117,PLT-005,Cleaning Validation,Open,True,2026-06-22,True,
+CHG-40018,PRD-120,PLT-005,Formulation,Closed,False,2026-05-11,True,Pending QA Review
+CHG-40019,PRD-123,PLT-001,Formulation,Closed,True,2026-02-19,True,Release Hold
+CHG-40020,PRD-104,PLT-002,Analytical Method,Open,True,2026-03-22,True,Blocks New Lots
+CHG-40021,PRD-107,PLT-002,Process,Open,False,2026-04-01,True,Release Hold
+CHG-40022,PRD-109,PLT-001,Equipment,Open,True,2026-02-12,True,Release Hold
+CHG-40023,PRD-109,PLT-002,Analytical Method,Closed,True,2026-01-31,True,
+CHG-40024,PRD-122,PLT-004,Cleaning Validation,Open,False,2026-06-01,True,Blocks New Lots
+CHG-40025,PRD-125,PLT-001,Cleaning Validation,In-Review,True,2026-02-21,True,Blocks New Lots
+CHG-40026,PRD-114,PLT-004,Packaging,Closed,True,2026-03-15,False,
+CHG-40027,PRD-113,PLT-003,Process,Closed,False,2026-06-05,False,Blocks New Lots
+CHG-40028,PRD-105,PLT-005,Formulation,In-Review,True,2026-02-01,False,Pending QA Review
+CHG-40029,PRD-113,PLT-005,Cleaning Validation,Open,True,2026-05-26,False,
+CHG-40030,PRD-115,PLT-003,Process,Closed,True,2026-04-09,True,Pending QA Review

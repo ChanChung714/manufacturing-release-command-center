@@ -1,0 +1,121 @@
+deviation_id,lot_id,plant_id,severity,status,description,opened_date,days_open,release_impact
+DEV-20001,LOT-10052,PLT-003,Minor,Open,Documentation correction required,2026-01-16,127,Pending QA Review
+DEV-20002,LOT-10172,PLT-003,Major,Open,Label reconciliation discrepancy,2026-03-30,54,Release Hold
+DEV-20003,LOT-10073,PLT-002,Major,Closed,Yield variance above action threshold,2026-01-22,121,No Release Impact
+DEV-20004,LOT-10117,PLT-005,Major,Open,Yield variance above action threshold,2026-04-25,28,Release Hold
+DEV-20005,LOT-10005,PLT-003,Major,Open,Label reconciliation discrepancy,2026-04-22,31,Release Hold
+DEV-20006,LOT-10166,PLT-003,Minor,Open,Documentation correction required,2026-03-17,67,Pending QA Review
+DEV-20007,LOT-10247,PLT-002,Major,Open,Environmental monitoring trend excursion,2026-02-14,98,Release Hold
+DEV-20008,LOT-10011,PLT-003,Major,Open,Yield variance above action threshold,2026-04-20,33,Release Hold
+DEV-20009,LOT-10099,PLT-002,Major,Open,Yield variance above action threshold,2026-03-20,64,Release Hold
+DEV-20010,LOT-10025,PLT-003,Critical,In-Review,Unverified operator step in critical process,2026-03-21,63,Release Blocked
+DEV-20011,LOT-10098,PLT-002,Minor,Open,Secondary packaging alignment shift,2026-01-14,129,Pending QA Review
+DEV-20012,LOT-10105,PLT-004,Major,Open,Environmental monitoring trend excursion,2026-02-24,88,Release Hold
+DEV-20013,LOT-10106,PLT-002,Minor,In-Review,Documentation correction required,2026-04-18,35,Pending QA Review
+DEV-20014,LOT-10067,PLT-005,Critical,Open,Unverified operator step in critical process,2026-05-15,8,Release Blocked
+DEV-20015,LOT-10150,PLT-004,Major,Open,Environmental monitoring trend excursion,2026-03-07,77,Release Hold
+DEV-20016,LOT-10077,PLT-004,Critical,Open,Unverified operator step in critical process,2026-03-10,74,Release Blocked
+DEV-20017,LOT-10161,PLT-002,Major,In-Review,Temperature excursion in controlled storage,2026-01-20,123,Release Hold
+DEV-20018,LOT-10180,PLT-001,Major,Closed,Yield variance above action threshold,2026-04-09,44,No Release Impact
+DEV-20019,LOT-10005,PLT-003,Minor,Open,QA review clarification pending,2026-04-16,37,Pending QA Review
+DEV-20020,LOT-10233,PLT-005,Critical,Open,API potency assay outside validated range,2026-01-21,122,Release Blocked
+DEV-20021,LOT-10131,PLT-003,Minor,Open,QA review clarification pending,2026-03-22,62,Pending QA Review
+DEV-20022,LOT-10165,PLT-004,Major,Open,Environmental monitoring trend excursion,2026-02-27,85,Release Hold
+DEV-20023,LOT-10175,PLT-002,Critical,In-Review,Sterility assurance excursion,2026-02-11,101,Release Blocked
+DEV-20024,LOT-10033,PLT-001,Critical,In-Review,API potency assay outside validated range,2026-03-25,59,Release Blocked
+DEV-20025,LOT-10015,PLT-002,Major,In-Review,Environmental monitoring trend excursion,2026-03-31,53,Release Hold
+DEV-20026,LOT-10192,PLT-003,Major,Open,Temperature excursion in controlled storage,2026-05-03,20,Release Hold
+DEV-20027,LOT-10194,PLT-002,Critical,Open,Sterility assurance excursion,2026-04-12,41,Release Blocked
+DEV-20028,LOT-10208,PLT-003,Critical,In-Review,Unverified operator step in critical process,2026-04-10,43,Release Blocked
+DEV-20029,LOT-10102,PLT-004,Minor,Open,QA review clarification pending,2026-05-09,14,Pending QA Review
+DEV-20030,LOT-10047,PLT-004,Major,In-Review,Label reconciliation discrepancy,2026-03-17,67,Release Hold
+DEV-20031,LOT-10132,PLT-005,Major,Open,Temperature excursion in controlled storage,2026-04-13,40,Release Hold
+DEV-20032,LOT-10245,PLT-005,Major,Open,Yield variance above action threshold,2026-03-01,83,Release Hold
+DEV-20033,LOT-10090,PLT-002,Major,In-Review,Label reconciliation discrepancy,2026-05-08,15,Release Hold
+DEV-20034,LOT-10059,PLT-004,Major,In-Review,Temperature excursion in controlled storage,2026-01-22,121,Release Hold
+DEV-20035,LOT-10151,PLT-004,Minor,Open,Documentation correction required,2026-02-19,93,Pending QA Review
+DEV-20036,LOT-10074,PLT-002,Minor,Open,Documentation correction required,2026-04-14,39,Pending QA Review
+DEV-20037,LOT-10077,PLT-004,Critical,Open,API potency assay outside validated range,2026-03-06,78,Release Blocked
+DEV-20038,LOT-10172,PLT-003,Major,Open,Label reconciliation discrepancy,2026-03-23,61,Release Hold
+DEV-20039,LOT-10140,PLT-002,Critical,Open,Sterility assurance excursion,2026-04-28,25,Release Blocked
+DEV-20040,LOT-10043,PLT-004,Major,In-Review,Yield variance above action threshold,2026-01-09,134,Release Hold
+DEV-20041,LOT-10202,PLT-002,Minor,Open,Secondary packaging alignment shift,2026-03-15,69,Pending QA Review
+DEV-20042,LOT-10078,PLT-004,Minor,In-Review,Secondary packaging alignment shift,2026-01-16,127,Pending QA Review
+DEV-20043,LOT-10164,PLT-005,Major,Open,Label reconciliation discrepancy,2026-03-07,77,Release Hold
+DEV-20044,LOT-10038,PLT-003,Critical,In-Review,API potency assay outside validated range,2026-02-20,92,Release Blocked
+DEV-20045,LOT-10067,PLT-005,Minor,Open,Secondary packaging alignment shift,2026-05-10,13,Pending QA Review
+DEV-20046,LOT-10188,PLT-005,Minor,Closed,Secondary packaging alignment shift,2026-05-10,13,No Release Impact
+DEV-20047,LOT-10091,PLT-002,Critical,In-Review,Sterility assurance excursion,2026-04-16,37,Release Blocked
+DEV-20048,LOT-10085,PLT-005,Major,Closed,Environmental monitoring trend excursion,2026-01-28,115,No Release Impact
+DEV-20049,LOT-10092,PLT-004,Major,In-Review,Temperature excursion in controlled storage,2026-04-01,52,Release Hold
+DEV-20050,LOT-10013,PLT-004,Major,Closed,Yield variance above action threshold,2026-01-24,119,No Release Impact
+DEV-20051,LOT-10139,PLT-002,Minor,Open,Documentation correction required,2026-05-07,16,Pending QA Review
+DEV-20052,LOT-10010,PLT-004,Major,In-Review,Environmental monitoring trend excursion,2026-03-14,70,Release Hold
+DEV-20053,LOT-10205,PLT-005,Critical,Closed,API potency assay outside validated range,2026-02-09,103,No Release Impact
+DEV-20054,LOT-10053,PLT-003,Critical,Closed,Sterility assurance excursion,2026-01-31,112,No Release Impact
+DEV-20055,LOT-10003,PLT-004,Minor,Open,Secondary packaging alignment shift,2026-04-14,39,Pending QA Review
+DEV-20056,LOT-10041,PLT-005,Minor,Open,Documentation correction required,2026-05-06,17,Pending QA Review
+DEV-20057,LOT-10195,PLT-003,Critical,Closed,Sterility assurance excursion,2026-05-06,17,No Release Impact
+DEV-20058,LOT-10018,PLT-004,Minor,Closed,Secondary packaging alignment shift,2026-03-16,68,No Release Impact
+DEV-20059,LOT-10195,PLT-003,Major,Closed,Label reconciliation discrepancy,2026-05-05,18,No Release Impact
+DEV-20060,LOT-10142,PLT-005,Major,Closed,Yield variance above action threshold,2026-04-29,24,No Release Impact
+DEV-20061,LOT-10144,PLT-004,Critical,In-Review,Sterility assurance excursion,2026-01-20,123,Release Blocked
+DEV-20062,LOT-10096,PLT-004,Major,Open,Label reconciliation discrepancy,2026-02-07,105,Release Hold
+DEV-20063,LOT-10121,PLT-004,Major,Open,Temperature excursion in controlled storage,2026-03-28,56,Release Hold
+DEV-20064,LOT-10131,PLT-003,Major,In-Review,Yield variance above action threshold,2026-03-21,63,Release Hold
+DEV-20065,LOT-10051,PLT-004,Major,Open,Temperature excursion in controlled storage,2026-01-14,129,Release Hold
+DEV-20066,LOT-10158,PLT-002,Major,Closed,Temperature excursion in controlled storage,2026-05-02,21,No Release Impact
+DEV-20067,LOT-10220,PLT-003,Major,Closed,Label reconciliation discrepancy,2026-01-07,136,No Release Impact
+DEV-20068,LOT-10165,PLT-004,Major,In-Review,Temperature excursion in controlled storage,2026-03-06,78,Release Hold
+DEV-20069,LOT-10078,PLT-004,Major,Closed,Environmental monitoring trend excursion,2026-01-24,119,No Release Impact
+DEV-20070,LOT-10186,PLT-003,Major,In-Review,Environmental monitoring trend excursion,2026-05-15,8,Release Hold
+DEV-20071,LOT-10239,PLT-003,Minor,Open,Secondary packaging alignment shift,2026-01-07,136,Pending QA Review
+DEV-20072,LOT-10233,PLT-005,Critical,Open,Unverified operator step in critical process,2026-01-24,119,Release Blocked
+DEV-20073,LOT-10134,PLT-002,Minor,Open,QA review clarification pending,2026-01-23,120,Pending QA Review
+DEV-20074,LOT-10118,PLT-005,Major,Open,Environmental monitoring trend excursion,2026-01-21,122,Release Hold
+DEV-20075,LOT-10204,PLT-004,Major,Open,Label reconciliation discrepancy,2026-04-27,26,Release Hold
+DEV-20076,LOT-10104,PLT-004,Major,Closed,Temperature excursion in controlled storage,2026-01-27,116,No Release Impact
+DEV-20077,LOT-10165,PLT-004,Critical,In-Review,API potency assay outside validated range,2026-03-08,76,Release Blocked
+DEV-20078,LOT-10053,PLT-003,Minor,Open,QA review clarification pending,2026-01-22,121,Pending QA Review
+DEV-20079,LOT-10071,PLT-004,Major,Open,Yield variance above action threshold,2026-02-18,94,Release Hold
+DEV-20080,LOT-10032,PLT-004,Critical,Closed,Unverified operator step in critical process,2026-01-22,121,No Release Impact
+DEV-20081,LOT-10220,PLT-003,Critical,Open,Sterility assurance excursion,2026-01-11,132,Release Blocked
+DEV-20082,LOT-10196,PLT-003,Major,In-Review,Yield variance above action threshold,2026-01-12,131,Release Hold
+DEV-20083,LOT-10101,PLT-003,Major,In-Review,Label reconciliation discrepancy,2026-02-27,85,Release Hold
+DEV-20084,LOT-10188,PLT-005,Minor,In-Review,Secondary packaging alignment shift,2026-05-02,21,Pending QA Review
+DEV-20085,LOT-10139,PLT-002,Major,Open,Yield variance above action threshold,2026-05-15,8,Release Hold
+DEV-20086,LOT-10183,PLT-003,Critical,Open,Unverified operator step in critical process,2026-03-05,79,Release Blocked
+DEV-20087,LOT-10107,PLT-003,Critical,Closed,Unverified operator step in critical process,2026-01-17,126,No Release Impact
+DEV-20088,LOT-10009,PLT-005,Minor,In-Review,Secondary packaging alignment shift,2026-01-31,112,Pending QA Review
+DEV-20089,LOT-10184,PLT-004,Major,Open,Yield variance above action threshold,2026-04-10,43,Release Hold
+DEV-20090,LOT-10066,PLT-005,Major,Open,Yield variance above action threshold,2026-03-04,80,Release Hold
+DEV-20091,LOT-10036,PLT-004,Critical,In-Review,Sterility assurance excursion,2026-02-17,95,Release Blocked
+DEV-20092,LOT-10198,PLT-004,Minor,Open,Secondary packaging alignment shift,2026-04-17,36,Pending QA Review
+DEV-20093,LOT-10234,PLT-002,Critical,Closed,Unverified operator step in critical process,2026-01-12,131,No Release Impact
+DEV-20094,LOT-10186,PLT-003,Critical,In-Review,Sterility assurance excursion,2026-05-16,7,Release Blocked
+DEV-20095,LOT-10165,PLT-004,Major,Open,Environmental monitoring trend excursion,2026-03-07,77,Release Hold
+DEV-20096,LOT-10064,PLT-005,Major,Open,Environmental monitoring trend excursion,2026-05-07,16,Release Hold
+DEV-20097,LOT-10210,PLT-002,Minor,Closed,Documentation correction required,2026-02-15,97,No Release Impact
+DEV-20098,LOT-10194,PLT-002,Critical,Open,API potency assay outside validated range,2026-04-10,43,Release Blocked
+DEV-20099,LOT-10004,PLT-003,Major,In-Review,Label reconciliation discrepancy,2026-04-25,28,Release Hold
+DEV-20100,LOT-10205,PLT-005,Major,Open,Environmental monitoring trend excursion,2026-02-11,101,Release Hold
+DEV-20101,LOT-10085,PLT-005,Major,Open,Label reconciliation discrepancy,2026-01-31,112,Release Hold
+DEV-20102,LOT-10208,PLT-003,Critical,Closed,API potency assay outside validated range,2026-04-13,40,No Release Impact
+DEV-20103,LOT-10218,PLT-002,Major,In-Review,Label reconciliation discrepancy,2026-04-18,35,Release Hold
+DEV-20104,LOT-10092,PLT-004,Critical,Open,Unverified operator step in critical process,2026-04-01,52,Release Blocked
+DEV-20105,LOT-10236,PLT-003,Major,Open,Environmental monitoring trend excursion,2026-02-03,109,Release Hold
+DEV-20106,LOT-10017,PLT-002,Critical,In-Review,API potency assay outside validated range,2026-03-17,67,Release Blocked
+DEV-20107,LOT-10043,PLT-004,Minor,In-Review,Secondary packaging alignment shift,2026-01-13,130,Pending QA Review
+DEV-20108,LOT-10070,PLT-005,Major,Closed,Temperature excursion in controlled storage,2026-02-21,91,No Release Impact
+DEV-20109,LOT-10139,PLT-002,Major,Open,Yield variance above action threshold,2026-05-07,16,Release Hold
+DEV-20110,LOT-10056,PLT-003,Major,Closed,Environmental monitoring trend excursion,2026-05-03,20,No Release Impact
+DEV-20111,LOT-10138,PLT-005,Critical,Open,Sterility assurance excursion,2026-02-10,102,Release Blocked
+DEV-20112,LOT-10244,PLT-004,Critical,Open,Sterility assurance excursion,2026-03-09,75,Release Blocked
+DEV-20113,LOT-10172,PLT-003,Major,Open,Yield variance above action threshold,2026-03-29,55,Release Hold
+DEV-20114,LOT-10224,PLT-002,Minor,Open,Secondary packaging alignment shift,2026-04-21,32,Pending QA Review
+DEV-20115,LOT-10193,PLT-004,Minor,Open,Documentation correction required,2026-01-18,125,Pending QA Review
+DEV-20116,LOT-10173,PLT-003,Critical,In-Review,API potency assay outside validated range,2026-01-16,127,Release Blocked
+DEV-20117,LOT-10056,PLT-003,Critical,Open,Sterility assurance excursion,2026-04-27,26,Release Blocked
+DEV-20118,LOT-10250,PLT-004,Major,Closed,Environmental monitoring trend excursion,2026-05-04,19,No Release Impact
+DEV-20119,LOT-10104,PLT-004,Critical,In-Review,API potency assay outside validated range,2026-01-29,114,Release Blocked
+DEV-20120,LOT-10057,PLT-001,Major,Open,Temperature excursion in controlled storage,2026-01-09,134,Release Hold

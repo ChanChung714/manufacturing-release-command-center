@@ -1,0 +1,41 @@
+supplier_id,supplier_name,risk_tier,category
+SUP-501,Supplier Partner 01,Low,API
+SUP-502,Supplier Partner 02,Medium,Media
+SUP-503,Supplier Partner 03,Low,Consumables
+SUP-504,Supplier Partner 04,Medium,Cold Chain
+SUP-505,Supplier Partner 05,Low,Testing
+SUP-506,Supplier Partner 06,Medium,Packaging
+SUP-507,Supplier Partner 07,High,Lab Supplies
+SUP-508,Supplier Partner 08,Low,API
+SUP-509,Supplier Partner 09,Low,Media
+SUP-510,Supplier Partner 10,Low,Consumables
+SUP-511,Supplier Partner 11,Medium,Cold Chain
+SUP-512,Supplier Partner 12,Medium,Testing
+SUP-513,Supplier Partner 13,Low,Packaging
+SUP-514,Supplier Partner 14,Low,Lab Supplies
+SUP-515,Supplier Partner 15,High,API
+SUP-516,Supplier Partner 16,Medium,Media
+SUP-517,Supplier Partner 17,Medium,Consumables
+SUP-518,Supplier Partner 18,Medium,Cold Chain
+SUP-519,Supplier Partner 19,Low,Testing
+SUP-520,Supplier Partner 20,Low,Packaging
+SUP-521,Supplier Partner 21,Low,Lab Supplies
+SUP-522,Supplier Partner 22,Low,API
+SUP-523,Supplier Partner 23,Medium,Media
+SUP-524,Supplier Partner 24,Low,Consumables
+SUP-525,Supplier Partner 25,High,Cold Chain
+SUP-526,Supplier Partner 26,Low,Testing
+SUP-527,Supplier Partner 27,Low,Packaging
+SUP-528,Supplier Partner 28,Low,Lab Supplies
+SUP-529,Supplier Partner 29,High,API
+SUP-530,Supplier Partner 30,Medium,Media
+SUP-531,Supplier Partner 31,Medium,Consumables
+SUP-532,Supplier Partner 32,Low,Cold Chain
+SUP-533,Supplier Partner 33,Low,Testing
+SUP-534,Supplier Partner 34,High,Packaging
+SUP-535,Supplier Partner 35,Low,Lab Supplies
+SUP-536,Supplier Partner 36,Medium,API
+SUP-537,Supplier Partner 37,Low,Media
+SUP-538,Supplier Partner 38,Low,Consumables
+SUP-539,Supplier Partner 39,Low,Cold Chain
+SUP-540,Supplier Partner 40,High,Testing

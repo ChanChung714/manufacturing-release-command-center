@@ -1,0 +1,46 @@
+capa_id,linked_deviation_id,lot_id,owner_role,status,due_date,is_overdue,root_cause_category,release_impact
+CAPA-30001,DEV-20023,LOT-10175,Production Manager,In-Progress,2026-03-13,True,Analytical Method,Release Blocked
+CAPA-30002,DEV-20089,LOT-10184,Validation Lead,In-Progress,2026-05-01,True,Process Drift,Pending QA Review
+CAPA-30003,DEV-20095,LOT-10165,Supplier Quality,Closed,2026-03-21,True,Process Drift,Release Hold
+CAPA-30004,DEV-20083,LOT-10101,Supplier Quality,Open,2026-03-20,False,Analytical Method,Release Hold
+CAPA-30005,DEV-20092,LOT-10198,Supplier Quality,Open,2026-06-01,False,Analytical Method,Release Hold
+CAPA-30006,DEV-20017,LOT-10161,Facilities Lead,In-Progress,2026-02-03,True,Analytical Method,Release Hold
+CAPA-30007,DEV-20116,LOT-10173,Supplier Quality,Open,2026-02-15,False,Supplier Documentation,Release Blocked
+CAPA-30008,DEV-20040,LOT-10043,Validation Lead,In-Progress,2026-02-08,True,Equipment Maintenance,Pending QA Review
+CAPA-30009,DEV-20029,LOT-10102,Production Manager,Open,2026-06-23,False,Supplier Documentation,Pending QA Review
+CAPA-30010,DEV-20082,LOT-10196,Production Manager,Open,2026-01-26,True,Analytical Method,Pending QA Review
+CAPA-30011,DEV-20015,LOT-10150,Production Manager,In-Progress,2026-04-21,False,Supplier Documentation,Release Hold
+CAPA-30012,DEV-20025,LOT-10015,Facilities Lead,In-Progress,2026-04-30,True,Human Error,Pending QA Review
+CAPA-30013,DEV-20063,LOT-10121,Facilities Lead,In-Progress,2026-05-12,False,Equipment Maintenance,Pending QA Review
+CAPA-30014,DEV-20014,LOT-10067,Production Manager,In-Progress,2026-06-29,False,Supplier Documentation,Release Blocked
+CAPA-30015,DEV-20105,LOT-10236,Supplier Quality,Open,2026-03-20,True,Analytical Method,Pending QA Review
+CAPA-30016,DEV-20044,LOT-10038,Process Engineer,In-Progress,2026-03-06,True,Process Drift,Release Blocked
+CAPA-30017,DEV-20013,LOT-10106,Facilities Lead,In-Progress,2026-06-02,False,Storage Infrastructure,Release Hold
+CAPA-30018,DEV-20043,LOT-10164,Production Manager,Open,2026-04-06,False,Supplier Documentation,Pending QA Review
+CAPA-30019,DEV-20021,LOT-10131,Production Manager,Open,2026-04-21,True,Equipment Maintenance,Pending QA Review
+CAPA-30020,DEV-20117,LOT-10056,Facilities Lead,In-Progress,2026-05-11,True,Storage Infrastructure,Release Blocked
+CAPA-30021,DEV-20004,LOT-10117,Facilities Lead,In-Progress,2026-05-09,False,Storage Infrastructure,Release Hold
+CAPA-30022,DEV-20020,LOT-10233,Quality Operations,In-Progress,2026-02-11,True,Human Error,Release Blocked
+CAPA-30023,DEV-20113,LOT-10172,Supplier Quality,In-Progress,2026-04-12,False,Human Error,Pending QA Review
+CAPA-30024,DEV-20007,LOT-10247,Validation Lead,In-Progress,2026-03-16,False,Storage Infrastructure,Release Hold
+CAPA-30025,DEV-20073,LOT-10134,Validation Lead,Open,2026-02-06,True,Storage Infrastructure,Release Hold
+CAPA-30026,DEV-20039,LOT-10140,Supplier Quality,Open,2026-05-28,False,Process Drift,Release Blocked
+CAPA-30027,DEV-20074,LOT-10118,Facilities Lead,Open,2026-02-20,False,Process Drift,Release Hold
+CAPA-30028,DEV-20033,LOT-10090,Process Engineer,Open,2026-05-22,False,Human Error,Pending QA Review
+CAPA-30029,DEV-20064,LOT-10131,Quality Operations,Closed,2026-04-20,True,Process Drift,Release Hold
+CAPA-30030,DEV-20062,LOT-10096,Validation Lead,Closed,2026-02-21,True,Storage Infrastructure,Pending QA Review
+CAPA-30031,DEV-20120,LOT-10057,Validation Lead,In-Progress,2026-02-23,False,Human Error,Pending QA Review
+CAPA-30032,DEV-20030,LOT-10047,Quality Operations,Open,2026-05-01,False,Storage Infrastructure,Release Hold
+CAPA-30033,DEV-20068,LOT-10165,Facilities Lead,Open,2026-03-20,True,Supplier Documentation,Release Hold
+CAPA-30034,DEV-20036,LOT-10074,Production Manager,In-Progress,2026-05-14,False,Analytical Method,Release Hold
+CAPA-30035,DEV-20024,LOT-10033,Supplier Quality,Open,2026-04-24,True,Supplier Documentation,Release Blocked
+CAPA-30036,DEV-20035,LOT-10151,Validation Lead,Open,2026-03-12,False,Process Drift,Pending QA Review
+CAPA-30037,DEV-20051,LOT-10139,Validation Lead,Open,2026-05-21,False,Process Drift,Pending QA Review
+CAPA-30038,DEV-20107,LOT-10043,Process Engineer,Open,2026-02-03,False,Supplier Documentation,Pending QA Review
+CAPA-30039,DEV-20047,LOT-10091,Facilities Lead,In-Progress,2026-05-16,True,Storage Infrastructure,Release Blocked
+CAPA-30040,DEV-20061,LOT-10144,Process Engineer,In-Progress,2026-02-03,False,Storage Infrastructure,Release Blocked
+CAPA-30041,DEV-20115,LOT-10193,Validation Lead,In-Progress,2026-02-08,True,Analytical Method,Pending QA Review
+CAPA-30042,DEV-20012,LOT-10105,Facilities Lead,Open,2026-03-17,False,Equipment Maintenance,Pending QA Review
+CAPA-30043,DEV-20109,LOT-10139,Production Manager,Open,2026-05-21,True,Analytical Method,Pending QA Review
+CAPA-30044,DEV-20101,LOT-10085,Quality Operations,Closed,2026-03-17,True,Analytical Method,Pending QA Review
+CAPA-30045,DEV-20031,LOT-10132,Process Engineer,In-Progress,2026-05-04,False,Analytical Method,Pending QA Review

@@ -1,0 +1,6 @@
+plant_id,plant_name,location_region,plant_type
+PLT-001,Riverside Operations,Northeast,Fill Finish
+PLT-002,Summit Biologics,Midwest,API Manufacturing
+PLT-003,Lakeside Fill Finish,Southeast,Packaging
+PLT-004,Canyon Packaging,Southwest,Biologics
+PLT-005,Harbor API,West,Device Assembly

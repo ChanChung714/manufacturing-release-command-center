@@ -1,4 +1,5 @@
-# manufacturing-release-command-center
+# Manufacturing Release Command Center
+
 A synthetic decision-support prototype that converts fragmented manufacturing quality records into release-readiness recommendations, next-best-action prioritization, and what-if operational simulations.
 
 ## Why I Built This
